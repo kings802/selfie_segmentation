@@ -1,6 +1,8 @@
 # selfie_segmentation
 基于mediapipe-selfie-segmentation的图像分割、背景切换解决方案
 
+包含静态图片和实时视频流
+
 原图：<br>
 ![face_example_2](https://github.com/kings802/selfie_segmentation/assets/19601216/ea31ad6d-b6f3-4196-b7cb-06cbe58df04d)
 输出图：<br>
